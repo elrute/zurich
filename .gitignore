@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BusinessLogic/bin/Debug/net8.0
+/BusinessLogic/obj
+/DataAccess/obj
+/Zurich.API/obj
+/Zurich.BusinessLogic.Tests/bin/Debug/net8.0
+/Zurich.BusinessLogic.Tests/obj
