@@ -1,3 +1,5 @@
+This repo contains the answer, in the shape of a microservice in .net with Entity fwk following DDD, to the followig code challenge:
+
 Task description:
 =================
 
